@@ -19,11 +19,11 @@ const image = {
         "width": 1062,
         "height": 784
     },
-    duration: null,
+    duration: 434,
     s3: {
         url: url
     },
-    aspectRatio: "4:3"
+    aspectRatio: "2:3"
 }
 
 const Home: NextPage = () => {
